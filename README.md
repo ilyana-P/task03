@@ -10,5 +10,4 @@
 - git stash pop - достать изменяния из "тайника"
 
 git fetch - обновить информацию об удаленном репозитории
-git push origin --delete dashboard - удалили удаленную ветку dashboard
-git branch -d dashboard - удалить локальную ветку dashboard
+git push origin --delet
