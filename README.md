@@ -12,3 +12,11 @@
 git fetch - обновить информацию об удаленном репозитории
 git push origin --delete dashboard - удалили удаленную ветку dashboard
 git branch -d dashboard - удалить локальную ветку dashboard
+
+git branch name - создать ветку с указанным названием
+
+git push -u origin advert - чтобы создалась удаленная ветка и туда были залиты изменения с нашей локальной версии 
+ 
+git branch -m old-name new-name - локально изменить
+
+git branch -a - показать список существующих веток, где * показывает актуальную
